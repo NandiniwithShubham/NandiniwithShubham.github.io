@@ -1,5 +1,5 @@
 # Dr. Nandini & Dr. Shubham — Wedding Invitation
 
-**Share this URL on WhatsApp:** https://nandiniwithshubham.github.io/invite/
+**WhatsApp share URL:** https://nandiniwithshubham.github.io/w/
 
-(Site itself: https://nandiniwithshubham.github.io/)
+Site: https://nandiniwithshubham.github.io/
