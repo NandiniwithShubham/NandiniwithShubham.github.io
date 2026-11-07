@@ -24,7 +24,7 @@
   var hintEl = intro.querySelector("[data-intro-hint]");
   var chipEl = intro.querySelector("[data-intro-chip]");
 
-  var COPY_URL = "data/template.json?v=12";
+  var COPY_URL = "data/template.json?v=13";
   var HINT_DELAY_MS = 1000;
   var ART_CAP_MS = 3000;
   var REMOVE_MS = 1700;
