@@ -795,7 +795,7 @@ const CHIP_MARGIN = 44; /* the pill never comes closer than this to the frame ed
  * different tokens means two cache entries, and this one going stale means chips
  * showing yesterday's copy. Byte-identical strings are the whole point.
  */
-const HINT_COPY_URL = "data/template.json?v=13";
+const HINT_COPY_URL = "data/template.json?v=15";
 
 let hintCopy = null;
 let hintCopyPending = null;

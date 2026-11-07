@@ -60,7 +60,7 @@ async function boot() {
 
   const [scenes, template] = await Promise.all([
     loadJSON("data/scenes.json?v=11"),
-    loadJSON("data/template.json?v=13")
+    loadJSON("data/template.json?v=15")
   ]);
 
   if (!scenes) {
