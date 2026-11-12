@@ -12,6 +12,12 @@ const COMPLIMENTS_VENUES = [
     href: "https://www.google.com/maps/place/Rosella+By+SK+Noida/@28.5829069,77.3911819,17z/data=!3m1!4b1!4m6!3m5!1s0x390cef006e56167d:0x97495ae07131946b!8m2!3d28.5829069!4d77.3937568!16s%2Fg%2F11ylv3d_qy?entry=ttu&g_ep=EgoyMDI2MTEwMi4wIKXMDSoASAFQAw%3D%3D",
     linkText: "Location",
   },
+  {
+    heading: "Departure of Barat",
+    lines: ["9th December 10:00 PM", "Gaur Grandeur, Sector 119, Noida"],
+    href: "https://www.google.com/maps/place/Gaur+Grandeur,+Sector+119,+Noida/@28.586879,77.402001,17z",
+    linkText: "Location",
+  },
 ];
 
 const COMPLIMENTS_FOOTER = "Your presence will make our celebrations special.";
