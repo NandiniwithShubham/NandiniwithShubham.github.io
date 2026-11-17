@@ -14,7 +14,7 @@ const COMPLIMENTS_VENUES = [
   },
   {
     heading: "Departure of Barat",
-    lines: ["9th December 10:00 PM", "Gaur Grandeur, Sector 119, Noida"],
+    lines: ["9th December 11:00 PM", "Gaur Grandeur, Sector 119, Noida"],
     href: "https://www.google.com/maps/place/Gaur+Grandeur,+Sector+119,+Noida/@28.586879,77.402001,17z",
     linkText: "Location",
   },
